@@ -1,0 +1,5 @@
+Mempelajari kembali HTML, CSS dan Javascript
+Praktek membuat proyek menggunakan teknologi di poin 1
+Belajar dasar .Net Technology
+Belajar dasar C#
+Praktek membuat proyek menggunakan .Net & C#
