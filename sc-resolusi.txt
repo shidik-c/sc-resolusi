@@ -3,3 +3,4 @@ Praktek membuat proyek menggunakan teknologi di poin 1
 Belajar dasar .Net Technology
 Belajar dasar C#
 Praktek membuat proyek menggunakan .Net & C#
+Mengaplikasikan UI Design ke FrontEnd
